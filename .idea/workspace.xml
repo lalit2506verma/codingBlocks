@@ -1,31 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae33591d-089c-47c7-ba6f-d119d31dd450" name="Changes" comment="" />
+    <list default="true" id="ae33591d-089c-47c7-ba6f-d119d31dd450" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.coding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2pIIkIxHuJyD5jEl1EElmArM0rm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Arrays_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arthmethic_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BostonNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChewbaccaAndNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConversionAnyToAny.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Data_Types_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fahren_to_Celsius.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HCF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HollowRhombus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hollow_Diamond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsArmstrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LCM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maximum_in_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MirrorStarPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEvenRule.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Odd_even.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PascalTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternDoubleSidedArrow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternHourGlass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternInvertedHourGlass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternMagic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternMountain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternNumberLadder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternWithZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_Problem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_Rombus.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Pattern_triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeFactor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceThemAll.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversalAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReversePrint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfOddEvenPlace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_of_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrappingRainWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bin_to_dec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.checkPrime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dec_to_bin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern28.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/PracticeDSA/com.coding&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.PascalTriangle">
+    <configuration name="BostonNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec6.BostonNumber" />
+      <module name="com.coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lec6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec4.PascalTriangle" />
+      <module name="com.coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lec4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversalAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec8.ReversalAlgorithm" />
+      <module name="com.coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lec8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec8.RotateArray" />
+      <module name="com.coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lec8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec8.TrappingRainWater" />
+      <module name="com.coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lec8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PascalTriangle" />
+        <item itemvalue="Application.TrappingRainWater" />
+        <item itemvalue="Application.ReversalAlgorithm" />
+        <item itemvalue="Application.RotateArray" />
+        <item itemvalue="Application.BostonNumber" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,5 +196,21 @@
       <updated>1732447309185</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lec3/Pattern_Rombus.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lec4/ReverseNum.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
