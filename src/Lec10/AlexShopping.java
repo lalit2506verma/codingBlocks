@@ -24,15 +24,15 @@ public class AlexShopping {
     public static void isPossible(int[] prices, int a, int k) {
         int count = 0;
         for(int price : prices){
-            if(price % a == 0 || a % price == 0){
+            if(a % price == 0){
                 count++;
             }
         }
 
-        if(count == k){
+        if (count >= k) {
             System.out.println("Yes");
-            return;
+        } else {
+            System.out.println("No");
         }
-        System.out.println("No");
     }
 }

@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae33591d-089c-47c7-ba6f-d119d31dd450" name="Changes" comment="Lec- 9 (Sorting Algo) and Lec-10 (Assignment - 3)">
-      <change afterPath="$PROJECT_DIR$/src/Lec10/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec10/ProductOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec9/PairOfRoses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec9/PairOfRoses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,112 +46,141 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Aggressive_Cow.executor": "Run",
-    "Application.AlexShopping.executor": "Run",
-    "Application.ArrayLinearSearch.executor": "Run",
-    "Application.Array_Target_Sum.executor": "Run",
-    "Application.Arrays_Demo.executor": "Run",
-    "Application.Arthmethic_Demo.executor": "Run",
-    "Application.BinarySearch.executor": "Run",
-    "Application.BostonNumber.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.Calculate_The_Sum.executor": "Run",
-    "Application.ChewbaccaAndNumber.executor": "Run",
-    "Application.ConversionAnyToAny.executor": "Run",
-    "Application.Data_Types_Demo.executor": "Run",
-    "Application.Fahren_to_Celsius.executor": "Run",
-    "Application.Fibo.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.FibonacciPattern.executor": "Run",
-    "Application.For_Demo.executor": "Run",
-    "Application.HCF.executor": "Run",
-    "Application.Help_Ramu.executor": "Run",
-    "Application.HollowRhombus.executor": "Run",
-    "Application.Hollow_Diamond.executor": "Run",
-    "Application.How_Many_questions.executor": "Run",
-    "Application.InsertionSort.executor": "Run",
-    "Application.InverseArray.executor": "Run",
-    "Application.InverseNumber.executor": "Run",
-    "Application.IsArmstrongNumber.executor": "Run",
-    "Application.LCM.executor": "Run",
-    "Application.LinearSearch.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Maximum_Circular_Sum.executor": "Run",
-    "Application.Maximum_in_Array.executor": "Run",
-    "Application.MirrorStarPattern.executor": "Run",
-    "Application.OddEvenRule.executor": "Run",
-    "Application.Odd_even.executor": "Run",
-    "Application.PairOfRoses.executor": "Run",
-    "Application.PascalTriangle.executor": "Run",
-    "Application.Pattern.executor": "Run",
-    "Application.Pattern13.executor": "Run",
-    "Application.Pattern14.executor": "Run",
-    "Application.Pattern17.executor": "Run",
-    "Application.Pattern19.executor": "Run",
-    "Application.PatternDoubleSidedArrow.executor": "Run",
-    "Application.PatternHourGlass.executor": "Run",
-    "Application.PatternInvertedHourGlass.executor": "Run",
-    "Application.PatternMagic.executor": "Run",
-    "Application.PatternMountain.executor": "Run",
-    "Application.PatternNumberLadder.executor": "Run",
-    "Application.PatternWithZero.executor": "Run",
-    "Application.Pattern_Problem.executor": "Run",
-    "Application.Pattern_Rombus.executor": "Debug",
-    "Application.Pattern_triangle.executor": "Run",
-    "Application.PrimeFactor.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.PrintSeries.executor": "Run",
-    "Application.ProductOfArray.executor": "Run",
-    "Application.RainWaterTrapping.executor": "Debug",
-    "Application.ReplaceThemAll.executor": "Run",
-    "Application.ReversalAlgorithm.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.ReverseNum.executor": "Debug",
-    "Application.ReversePrint.executor": "Run",
-    "Application.RotateArray.executor": "Run",
-    "Application.SelectionSort.executor": "Run",
-    "Application.SimpleInput.executor": "Run",
-    "Application.SortZeroAndOnes.executor": "Run",
-    "Application.Sort_Patient_Severity.executor": "Run",
-    "Application.Spiral_Print.executor": "Run",
-    "Application.SumOfDigit.executor": "Run",
-    "Application.SumOfOddEvenPlace.executor": "Run",
-    "Application.Sum_of_Array.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.TimeComplexity.executor": "Run",
-    "Application.Transpose_Matrix.executor": "Run",
-    "Application.TrappingRainWater.executor": "Run",
-    "Application.User_input_output.executor": "Run",
-    "Application.Variable.executor": "Run",
-    "Application.Von_Neuman_Loves_Binary.executor": "Run",
-    "Application.Wave_Print.executor": "Run",
-    "Application.bin_to_dec.executor": "Run",
-    "Application.checkPrime.executor": "Run",
-    "Application.dec_to_bin.executor": "Run",
-    "Application.kthRoot.executor": "Run",
-    "Application.nextPermutation.executor": "Run",
-    "Application.pattern24.executor": "Run",
-    "Application.pattern25.executor": "Run",
-    "Application.pattern26.executor": "Run",
-    "Application.pattern27.executor": "Run",
-    "Application.pattern28.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Projects/PracticeDSA/com.coding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Aggressive_Cow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AlexShopping.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayLinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Target_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arthmethic_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BostonNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculate_The_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChewbaccaAndNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConversionAnyToAny.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Data_Types_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fahren_to_Celsius.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HCF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Help_Ramu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HollowRhombus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hollow_Diamond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.How_Many_questions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsArmstrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LCM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maximum_Circular_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maximum_in_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MirrorStarPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEvenRule.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Odd_even.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PairOfRoses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PascalTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternDoubleSidedArrow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternHourGlass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternInvertedHourGlass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternMagic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternMountain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternNumberLadder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternWithZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_Problem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_Rombus.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Pattern_triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeFactor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Print_SubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RainWaterTrapping.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReplaceThemAll.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversalAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReversePrint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_Words_in_a_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortZeroAndOnes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort_Patient_Severity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Spiral_Print.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfOddEvenPlace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_of_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TimeComplexity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Transpose_Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrappingRainWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.User_input_output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Von_Neuman_Loves_Binary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Wave_Print.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bin_to_dec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.checkPrime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dec_to_bin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kthRoot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nextPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern28.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/PracticeDSA/com.coding&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Spiral_Print">
-    <configuration name="Array_Target_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec10.Array_Target_Sum" />
+}</component>
+  <component name="RunManager" selected="Application.Reverse_Words_in_a_String">
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec13.Palindrome" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec10.*" />
+          <option name="PATTERN" value="Lec13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Print_SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec13.Print_SubString" />
+      <module name="com.coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lec13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse_Words_in_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec13.Reverse_Words_in_a_String" />
+      <module name="com.coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lec13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,39 +214,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="User_input_output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec12.User_input_output" />
-      <module name="com.coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lec12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Wave_Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec12.Wave_Print" />
-      <module name="com.coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lec12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse_Words_in_a_String" />
+        <item itemvalue="Application.Print_SubString" />
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.Spiral_Print" />
         <item itemvalue="Application.Transpose_Matrix" />
-        <item itemvalue="Application.Wave_Print" />
-        <item itemvalue="Application.User_input_output" />
-        <item itemvalue="Application.Array_Target_Sum" />
       </list>
     </recent_temporary>
   </component>
