@@ -1,9 +1,20 @@
 package Lec12;
 
+import java.util.Scanner;
+
 public class Wave_Print {
 
     public static void main(String[] args) {
-        int[] [] arr = {{1,4,7,11,15},{4,5,6,13,21},{21,22,23,24}, {}};
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int m = sc.nextInt();
+
+        int[][] arr = new int[n][m];
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                arr[i][j] = sc.nextInt();
+            }
+        }
 
         Print(arr);
     }

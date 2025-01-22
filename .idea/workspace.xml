@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ae33591d-089c-47c7-ba6f-d119d31dd450" name="Changes" comment="Lec- 9 (Sorting Algo) and Lec-10 (Assignment - 3)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec12/Transpose_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec12/Transpose_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec12/Wave_Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec12/Wave_Print.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,10 @@
     "Application.ArrayList_Demo2.executor": "Run",
     "Application.Array_Target_Sum.executor": "Run",
     "Application.Arrays_Demo.executor": "Run",
+    "Application.Arrays_Spiral_Print_AntiClockwise.executor": "Run",
+    "Application.Arrays_Spiral_Print_Clockwise.executor": "Run",
     "Application.Arrays_Sum_Of_Two_Arrays.executor": "Run",
+    "Application.Arrays_Wave_print_Row_Wise.executor": "Run",
     "Application.Arthmethic_Demo.executor": "Run",
     "Application.BinarySearch.executor": "Run",
     "Application.BostonNumber.executor": "Run",
@@ -63,10 +68,12 @@
     "Application.ChewbaccaAndNumber.executor": "Run",
     "Application.ConversionAnyToAny.executor": "Run",
     "Application.Data_Types_Demo.executor": "Run",
+    "Application.Factorial.executor": "Run",
     "Application.Fahren_to_Celsius.executor": "Run",
     "Application.Fibo.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.FibonacciPattern.executor": "Run",
+    "Application.First_Occ.executor": "Run",
     "Application.For_Demo.executor": "Run",
     "Application.HCF.executor": "Run",
     "Application.Help_Ramu.executor": "Run",
@@ -77,12 +84,15 @@
     "Application.InverseArray.executor": "Run",
     "Application.InverseNumber.executor": "Run",
     "Application.IsArmstrongNumber.executor": "Run",
+    "Application.Is_Array_Sorted.executor": "Run",
     "Application.LCM.executor": "Run",
     "Application.LinearSearch.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Matrix_Search.executor": "Run",
     "Application.Maximum_Circular_Sum.executor": "Run",
     "Application.Maximum_in_Array.executor": "Run",
     "Application.MirrorStarPattern.executor": "Run",
+    "Application.Mummy_Motivational_Speech.executor": "Run",
     "Application.OddEvenRule.executor": "Run",
     "Application.Odd_even.executor": "Run",
     "Application.PairOfRoses.executor": "Run",
@@ -103,9 +113,13 @@
     "Application.Pattern_Problem.executor": "Run",
     "Application.Pattern_Rombus.executor": "Debug",
     "Application.Pattern_triangle.executor": "Run",
+    "Application.Piyush_And_Magical_Park.executor": "Run",
+    "Application.Power.executor": "Run",
     "Application.PrimeFactor.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.PrintSeries.executor": "Run",
+    "Application.Print_Dec.executor": "Run",
+    "Application.Print_Inc.executor": "Run",
     "Application.Print_SubString.executor": "Run",
     "Application.ProductOfArray.executor": "Run",
     "Application.RainWaterTrapping.executor": "Debug",
@@ -116,6 +130,7 @@
     "Application.ReversePrint.executor": "Run",
     "Application.Reverse_Words_in_a_String.executor": "Run",
     "Application.RotateArray.executor": "Run",
+    "Application.RowWise_Sort_matrix.executor": "Run",
     "Application.SelectionSort.executor": "Run",
     "Application.SimpleInput.executor": "Run",
     "Application.SortZeroAndOnes.executor": "Run",
@@ -123,6 +138,7 @@
     "Application.Spiral_Print.executor": "Run",
     "Application.SumOfDigit.executor": "Run",
     "Application.SumOfOddEvenPlace.executor": "Run",
+    "Application.Sum_Of_Number.executor": "Run",
     "Application.Sum_of_Array.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TimeComplexity.executor": "Run",
@@ -131,10 +147,11 @@
     "Application.User_input_output.executor": "Run",
     "Application.Variable.executor": "Run",
     "Application.Von_Neuman_Loves_Binary.executor": "Run",
-    "Application.Wave_Print.executor": "Run",
+    "Application.Wave_Print.executor": "Debug",
     "Application.bin_to_dec.executor": "Run",
     "Application.checkPrime.executor": "Run",
     "Application.dec_to_bin.executor": "Run",
+    "Application.fibonaci.executor": "Run",
     "Application.kthRoot.executor": "Run",
     "Application.nextPermutation.executor": "Run",
     "Application.pattern24.executor": "Run",
@@ -150,13 +167,13 @@
     "last_opened_file_path": "C:/Projects/PracticeDSA/com.coding"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Arrays_Sum_Of_Two_Arrays">
-    <configuration name="ArrayList_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec14.ArrayList_Demo" />
+  <component name="RunManager" selected="Application.Mummy_Motivational_Speech">
+    <configuration name="Arrays_Spiral_Print_AntiClockwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec12.Arrays_Spiral_Print_AntiClockwise" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec14.*" />
+          <option name="PATTERN" value="Lec12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList_Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec14.ArrayList_Demo2" />
+    <configuration name="Mummy_Motivational_Speech" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec12.Mummy_Motivational_Speech" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec14.*" />
+          <option name="PATTERN" value="Lec12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays_Sum_Of_Two_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec14.Arrays_Sum_Of_Two_Arrays" />
+    <configuration name="Piyush_And_Magical_Park" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec12.Piyush_And_Magical_Park" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec14.*" />
+          <option name="PATTERN" value="Lec12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print_SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec13.Print_SubString" />
+    <configuration name="RowWise_Sort_matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec12.RowWise_Sort_matrix" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec13.*" />
+          <option name="PATTERN" value="Lec12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_Words_in_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec13.Reverse_Words_in_a_String" />
+    <configuration name="Transpose_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec12.Transpose_Matrix" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec13.*" />
+          <option name="PATTERN" value="Lec12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Arrays_Sum_Of_Two_Arrays" />
-        <item itemvalue="Application.ArrayList_Demo2" />
-        <item itemvalue="Application.ArrayList_Demo" />
-        <item itemvalue="Application.Reverse_Words_in_a_String" />
-        <item itemvalue="Application.Print_SubString" />
+        <item itemvalue="Application.Mummy_Motivational_Speech" />
+        <item itemvalue="Application.RowWise_Sort_matrix" />
+        <item itemvalue="Application.Piyush_And_Magical_Park" />
+        <item itemvalue="Application.Transpose_Matrix" />
+        <item itemvalue="Application.Arrays_Spiral_Print_AntiClockwise" />
       </list>
     </recent_temporary>
   </component>
