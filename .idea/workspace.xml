@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae33591d-089c-47c7-ba6f-d119d31dd450" name="Changes" comment="Lec- 9 (Sorting Algo) and Lec-10 (Assignment - 3)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec12/Rotate90Degree_Anticlockwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec12/Rotate90Degree_Anticlockwise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec12/Murthal_parantha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec12/Murthal_parantha.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +64,14 @@
     "Application.BinarySearch.executor": "Run",
     "Application.Board_Path.executor": "Run",
     "Application.Book_Allocation.executor": "Run",
+    "Application.Boolean_Matrix.executor": "Run",
     "Application.BostonNumber.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.Calculate_The_Sum.executor": "Run",
     "Application.ChewbaccaAndNumber.executor": "Run",
+    "Application.Coin_Permutation.executor": "Run",
     "Application.Coin_Toss2.executor": "Run",
+    "Application.Combination_Sum.executor": "Run",
     "Application.ConversionAnyToAny.executor": "Run",
     "Application.Data_Types_Demo.executor": "Run",
     "Application.Factorial.executor": "Run",
@@ -89,6 +92,7 @@
     "Application.IsArmstrongNumber.executor": "Run",
     "Application.Is_Array_Sorted.executor": "Run",
     "Application.Is_Present.executor": "Run",
+    "Application.Key_Paid.executor": "Run",
     "Application.LCM.executor": "Run",
     "Application.Lexicographical_Numbers.executor": "Run",
     "Application.LinearSearch.executor": "Run",
@@ -101,10 +105,13 @@
     "Application.Maze_Path.executor": "Run",
     "Application.MirrorStarPattern.executor": "Run",
     "Application.Mummy_Motivational_Speech.executor": "Run",
+    "Application.Murthal_parantha.executor": "Run",
     "Application.OddEvenRule.executor": "Run",
     "Application.Odd_even.executor": "Run",
+    "Application.Painters_partition_Problem.executor": "Debug",
     "Application.PairOfRoses.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.Palindrome_Partition.executor": "Run",
     "Application.PascalTriangle.executor": "Run",
     "Application.Pattern.executor": "Run",
     "Application.Pattern13.executor": "Run",
@@ -133,7 +140,9 @@
     "Application.Print_SubString.executor": "Run",
     "Application.Print_Upper_Triangular_Matrix.executor": "Run",
     "Application.ProductOfArray.executor": "Run",
+    "Application.Queen_Permutation.executor": "Run",
     "Application.RainWaterTrapping.executor": "Debug",
+    "Application.Rat_Chases_its_cheese.executor": "Run",
     "Application.ReplaceThemAll.executor": "Run",
     "Application.ReversalAlgorithm.executor": "Run",
     "Application.ReverseArray.executor": "Run",
@@ -183,13 +192,13 @@
     "last_opened_file_path": "C:/Projects/PracticeDSA/com.coding"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lexicographical_Numbers">
-    <configuration name="Is_Present" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec17.Is_Present" />
+  <component name="RunManager" selected="Application.Rat_Chases_its_cheese">
+    <configuration name="Coin_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec18.Coin_Permutation" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec17.*" />
+          <option name="PATTERN" value="Lec18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lexicographical_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec17.Lexicographical_Numbers" />
+    <configuration name="Combination_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec19.Combination_Sum" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec17.*" />
+          <option name="PATTERN" value="Lec19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_Column_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec12.Max_Column_Sum" />
+    <configuration name="Key_Paid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec18.Key_Paid" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec12.*" />
+          <option name="PATTERN" value="Lec18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec17.Permutation" />
+    <configuration name="Palindrome_Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec19.Palindrome_Partition" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec17.*" />
+          <option name="PATTERN" value="Lec19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rotate90Degree_Anticlockwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec12.Rotate90Degree_Anticlockwise" />
+    <configuration name="Rat_Chases_its_cheese" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec19.Rat_Chases_its_cheese" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec12.*" />
+          <option name="PATTERN" value="Lec19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lexicographical_Numbers" />
-        <item itemvalue="Application.Permutation" />
-        <item itemvalue="Application.Is_Present" />
-        <item itemvalue="Application.Rotate90Degree_Anticlockwise" />
-        <item itemvalue="Application.Max_Column_Sum" />
+        <item itemvalue="Application.Rat_Chases_its_cheese" />
+        <item itemvalue="Application.Palindrome_Partition" />
+        <item itemvalue="Application.Combination_Sum" />
+        <item itemvalue="Application.Key_Paid" />
+        <item itemvalue="Application.Coin_Permutation" />
       </list>
     </recent_temporary>
   </component>
