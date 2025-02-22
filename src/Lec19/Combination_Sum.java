@@ -22,7 +22,7 @@ public class Combination_Sum {
         for (int i = idx; i < coins.length; i++) {
             if(target >= coins[i]){
                 ll.add(coins[i]);
-                permutation(coins, target-coins[i], ll, i, ans);
+                permutation(coins, target-coins[i], ll, idx+1, ans);
                 ll.removeLast();
             }
         }
