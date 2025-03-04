@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae33591d-089c-47c7-ba6f-d119d31dd450" name="Changes" comment="Lec- 9 (Sorting Algo) and Lec-10 (Assignment - 3)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec19/Combination_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec19/Combination_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec19/Assigment/Dictionary_order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec19/Assigment/Dictionary_order.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +69,7 @@
     "Application.BostonNumber.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.Calculate_The_Sum.executor": "Run",
+    "Application.Check_prime.executor": "Run",
     "Application.ChewbaccaAndNumber.executor": "Run",
     "Application.Coin_Permutation.executor": "Run",
     "Application.Coin_Toss2.executor": "Run",
@@ -84,6 +85,7 @@
     "Application.FibonacciPattern.executor": "Run",
     "Application.First_Occ.executor": "Run",
     "Application.For_Demo.executor": "Run",
+    "Application.Generate_Binary_String.executor": "Run",
     "Application.Generate_Parenthesis.executor": "Run",
     "Application.HCF.executor": "Run",
     "Application.Help_Ramu.executor": "Run",
@@ -96,6 +98,7 @@
     "Application.IsArmstrongNumber.executor": "Run",
     "Application.Is_Array_Sorted.executor": "Run",
     "Application.Is_Present.executor": "Run",
+    "Application.Kartik_Bhaiya_And_Strings.executor": "Run",
     "Application.Key_Paid.executor": "Run",
     "Application.LCM.executor": "Run",
     "Application.Lexicographical_Numbers.executor": "Run",
@@ -105,21 +108,26 @@
     "Application.Matrix_Search.executor": "Run",
     "Application.Max_Column_Sum.executor": "Run",
     "Application.Maximum_Circular_Sum.executor": "Run",
+    "Application.Maximum_Sum_of_Size_K.executor": "Run",
     "Application.Maximum_in_Array.executor": "Run",
     "Application.MazePath_Count.executor": "Run",
     "Application.MazePath_D.executor": "Run",
     "Application.Maze_Path.executor": "Run",
+    "Application.Merge_Sort.executor": "Run",
     "Application.Merge_Two_SortedAraay.executor": "Run",
     "Application.MirrorStarPattern.executor": "Run",
     "Application.Mummy_Motivational_Speech.executor": "Run",
     "Application.Murthal_parantha.executor": "Run",
     "Application.N_Queens.executor": "Run",
+    "Application.Number_Raised_to_Reverse.executor": "Run",
     "Application.OddEvenRule.executor": "Run",
     "Application.Odd_even.executor": "Run",
     "Application.Painters_partition_Problem.executor": "Debug",
     "Application.PairOfRoses.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.Palindrome_Partition.executor": "Run",
+    "Application.Palindrome_Substring.executor": "Run",
+    "Application.Palindromic_Partition.executor": "Run",
     "Application.Partition_in_Array.executor": "Run",
     "Application.PascalTriangle.executor": "Run",
     "Application.Pattern.executor": "Run",
@@ -150,7 +158,9 @@
     "Application.Print_Upper_Triangular_Matrix.executor": "Run",
     "Application.ProductOfArray.executor": "Run",
     "Application.Queen_Permutation.executor": "Run",
+    "Application.Quick_Sort.executor": "Run",
     "Application.RainWaterTrapping.executor": "Debug",
+    "Application.Random_Number.executor": "Run",
     "Application.Rat_Chases_its_cheese.executor": "Run",
     "Application.ReplaceThemAll.executor": "Run",
     "Application.ReversalAlgorithm.executor": "Run",
@@ -163,6 +173,7 @@
     "Application.RowWise_Sort_matrix.executor": "Run",
     "Application.SelectionSort.executor": "Run",
     "Application.SimpleInput.executor": "Run",
+    "Application.Sliding_Window_Maximum.executor": "Run",
     "Application.SortZeroAndOnes.executor": "Run",
     "Application.Sort_Patient_Severity.executor": "Run",
     "Application.Spiral_Print.executor": "Run",
@@ -176,6 +187,7 @@
     "Application.Test.executor": "Run",
     "Application.TimeComplexity.executor": "Run",
     "Application.Toss_Coin.executor": "Run",
+    "Application.Tower_of_Hanoi.executor": "Run",
     "Application.Transpose_Matrix.executor": "Run",
     "Application.TrappingRainWater.executor": "Run",
     "Application.User_input_output.executor": "Run",
@@ -200,16 +212,16 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Projects/PracticeDSA/com.coding"
+    "last_opened_file_path": "C:/Users/III S I/OneDrive/Desktop/JabRev-repo/JabRef/build.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Partition_in_Array">
-    <configuration name="Combination_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec19.Combination_Sum" />
+  <component name="RunManager" selected="Application.Quick_Sort">
+    <configuration name="Merge_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec23.Merge_Sort" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec19.*" />
+          <option name="PATTERN" value="Lec23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_Two_SortedAraay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec20.Merge_Two_SortedAraay" />
+    <configuration name="Number_Raised_to_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Number_Raised_to_Reverse" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec20.*" />
+          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N_Queens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec20.N_Queens" />
+    <configuration name="Palindromic_Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Palindromic_Partition" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec20.*" />
+          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Partition_in_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec20.Partition_in_Array" />
+    <configuration name="Quick_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec23.Quick_Sort" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec20.*" />
+          <option name="PATTERN" value="Lec23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sudoko_Solver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec20.Sudoko_Solver" />
+    <configuration name="Tower_of_Hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec21.Tower_of_Hanoi" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec20.*" />
+          <option name="PATTERN" value="Lec21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Partition_in_Array" />
-        <item itemvalue="Application.Merge_Two_SortedAraay" />
-        <item itemvalue="Application.Sudoko_Solver" />
-        <item itemvalue="Application.N_Queens" />
-        <item itemvalue="Application.Combination_Sum" />
+        <item itemvalue="Application.Quick_Sort" />
+        <item itemvalue="Application.Merge_Sort" />
+        <item itemvalue="Application.Tower_of_Hanoi" />
+        <item itemvalue="Application.Number_Raised_to_Reverse" />
+        <item itemvalue="Application.Palindromic_Partition" />
       </list>
     </recent_temporary>
   </component>
