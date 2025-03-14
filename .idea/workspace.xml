@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae33591d-089c-47c7-ba6f-d119d31dd450" name="Changes" comment="Lec- 9 (Sorting Algo) and Lec-10 (Assignment - 3)">
+      <change afterPath="$PROJECT_DIR$/src/Lec19/Assigment/Count_Remove_Replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec19/Assigment/Rat_Chase_its_Cheese2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec19/Assigment/Dictionary_order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec19/Assigment/Dictionary_order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec19/Assigment/Odd_Even_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec19/Assigment/Odd_Even_Recursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +77,7 @@
     "Application.Coin_Toss2.executor": "Run",
     "Application.Combination_Sum.executor": "Run",
     "Application.ConversionAnyToAny.executor": "Run",
+    "Application.Count_Remove_Replace.executor": "Run",
     "Application.Data_Types_Demo.executor": "Run",
     "Application.Dictionary_Order_Smaller.executor": "Run",
     "Application.Dictionary_order.executor": "Run",
@@ -121,6 +124,7 @@
     "Application.N_Queens.executor": "Run",
     "Application.Number_Raised_to_Reverse.executor": "Run",
     "Application.OddEvenRule.executor": "Run",
+    "Application.Odd_Even_Recursion.executor": "Run",
     "Application.Odd_even.executor": "Run",
     "Application.Painters_partition_Problem.executor": "Debug",
     "Application.PairOfRoses.executor": "Run",
@@ -158,9 +162,11 @@
     "Application.Print_Upper_Triangular_Matrix.executor": "Run",
     "Application.ProductOfArray.executor": "Run",
     "Application.Queen_Permutation.executor": "Run",
+    "Application.Queue_Client.executor": "Run",
     "Application.Quick_Sort.executor": "Run",
     "Application.RainWaterTrapping.executor": "Debug",
     "Application.Random_Number.executor": "Run",
+    "Application.Rat_Chase_its_Cheese2.executor": "Run",
     "Application.Rat_Chases_its_cheese.executor": "Run",
     "Application.ReplaceThemAll.executor": "Run",
     "Application.ReversalAlgorithm.executor": "Run",
@@ -178,6 +184,8 @@
     "Application.Sort_Patient_Severity.executor": "Run",
     "Application.Spiral_Print.executor": "Run",
     "Application.Square_Root.executor": "Run",
+    "Application.Stack_Java.executor": "Run",
+    "Application.Stack_client.executor": "Run",
     "Application.Subset_problem.executor": "Run",
     "Application.Sudoko_Solver.executor": "Run",
     "Application.SumOfDigit.executor": "Run",
@@ -215,13 +223,13 @@
     "last_opened_file_path": "C:/Users/III S I/OneDrive/Desktop/JabRev-repo/JabRef/build.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Quick_Sort">
-    <configuration name="Merge_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec23.Merge_Sort" />
+  <component name="RunManager" selected="Application.Queue_Client">
+    <configuration name="Odd_Even_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec19.Assigment.Odd_Even_Recursion" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec23.*" />
+          <option name="PATTERN" value="Lec19.Assigment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_Raised_to_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Number_Raised_to_Reverse" />
+    <configuration name="Queue_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec25.Queue_Client" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
+          <option name="PATTERN" value="Lec25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindromic_Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Palindromic_Partition" />
+    <configuration name="Rat_Chase_its_Cheese2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec19.Assigment.Rat_Chase_its_Cheese2" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
+          <option name="PATTERN" value="Lec19.Assigment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quick_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec23.Quick_Sort" />
+    <configuration name="Stack_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec25.Stack_Java" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec23.*" />
+          <option name="PATTERN" value="Lec25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tower_of_Hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec21.Tower_of_Hanoi" />
+    <configuration name="Stack_client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec25.Stack_client" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec21.*" />
+          <option name="PATTERN" value="Lec25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Quick_Sort" />
-        <item itemvalue="Application.Merge_Sort" />
-        <item itemvalue="Application.Tower_of_Hanoi" />
-        <item itemvalue="Application.Number_Raised_to_Reverse" />
-        <item itemvalue="Application.Palindromic_Partition" />
+        <item itemvalue="Application.Queue_Client" />
+        <item itemvalue="Application.Stack_client" />
+        <item itemvalue="Application.Stack_Java" />
+        <item itemvalue="Application.Odd_Even_Recursion" />
+        <item itemvalue="Application.Rat_Chase_its_Cheese2" />
       </list>
     </recent_temporary>
   </component>
