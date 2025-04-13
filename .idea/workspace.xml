@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae33591d-089c-47c7-ba6f-d119d31dd450" name="Changes" comment="Lec- 9 (Sorting Algo) and Lec-10 (Assignment - 3)">
-      <change afterPath="$PROJECT_DIR$/src/Lec19/Assigment/Count_Remove_Replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec19/Assigment/Rat_Chase_its_Cheese2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec19/Assigment/Odd_Even_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec19/Assigment/Odd_Even_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec19/Assigment/Vivek_Array_Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec19/Assigment/Vivek_Array_Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec25/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec25/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec25/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec25/Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +64,7 @@
     "Application.Arrays_Wave_print_Row_Wise.executor": "Run",
     "Application.Arthmethic_Demo.executor": "Run",
     "Application.BinarySearch.executor": "Run",
+    "Application.Binary_Tree_Client.executor": "Run",
     "Application.BoardPath_Count.executor": "Run",
     "Application.Board_Path.executor": "Run",
     "Application.Book_Allocation.executor": "Run",
@@ -81,6 +82,8 @@
     "Application.Data_Types_Demo.executor": "Run",
     "Application.Dictionary_Order_Smaller.executor": "Run",
     "Application.Dictionary_order.executor": "Run",
+    "Application.Dynamic_Queue.executor": "Run",
+    "Application.Dynamic_Stack.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Fahren_to_Celsius.executor": "Run",
     "Application.Fibo.executor": "Run",
@@ -185,7 +188,9 @@
     "Application.Spiral_Print.executor": "Run",
     "Application.Square_Root.executor": "Run",
     "Application.Stack_Java.executor": "Run",
+    "Application.Stack_Using_Linked_list.executor": "Run",
     "Application.Stack_client.executor": "Run",
+    "Application.Student_client.executor": "Run",
     "Application.Subset_problem.executor": "Run",
     "Application.Sudoko_Solver.executor": "Run",
     "Application.SumOfDigit.executor": "Run",
@@ -207,7 +212,7 @@
     "Application.count_SubSequence.executor": "Run",
     "Application.dec_to_bin.executor": "Run",
     "Application.fibonaci.executor": "Run",
-    "Application.kthRoot.executor": "Run",
+    "Application.kthRoot.executor": "Debug",
     "Application.kth_root.executor": "Run",
     "Application.nextPermutation.executor": "Run",
     "Application.pattern24.executor": "Run",
@@ -223,13 +228,13 @@
     "last_opened_file_path": "C:/Users/III S I/OneDrive/Desktop/JabRev-repo/JabRef/build.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Queue_Client">
-    <configuration name="Odd_Even_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec19.Assigment.Odd_Even_Recursion" />
+  <component name="RunManager" selected="Application.Binary_Tree_Client">
+    <configuration name="Binary_Tree_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec31.Binary_Tree_Client" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec19.Assigment.*" />
+          <option name="PATTERN" value="Lec31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec25.Queue_Client" />
+    <configuration name="Dynamic_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec28.Dynamic_Queue" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec25.*" />
+          <option name="PATTERN" value="Lec28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rat_Chase_its_Cheese2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec19.Assigment.Rat_Chase_its_Cheese2" />
+    <configuration name="Dynamic_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec28.Dynamic_Stack" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec19.Assigment.*" />
+          <option name="PATTERN" value="Lec28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,12 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec25.Stack_Java" />
+    <configuration name="Stack_Using_Linked_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec30.Stack_Using_Linked_list" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec25.*" />
+          <option name="PATTERN" value="Lec30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,12 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack_client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec25.Stack_client" />
+    <configuration name="Student_client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec28.Student_client" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec25.*" />
+          <option name="PATTERN" value="Lec28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,11 +296,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Queue_Client" />
-        <item itemvalue="Application.Stack_client" />
-        <item itemvalue="Application.Stack_Java" />
-        <item itemvalue="Application.Odd_Even_Recursion" />
-        <item itemvalue="Application.Rat_Chase_its_Cheese2" />
+        <item itemvalue="Application.Binary_Tree_Client" />
+        <item itemvalue="Application.Stack_Using_Linked_list" />
+        <item itemvalue="Application.Dynamic_Queue" />
+        <item itemvalue="Application.Dynamic_Stack" />
+        <item itemvalue="Application.Student_client" />
       </list>
     </recent_temporary>
   </component>
