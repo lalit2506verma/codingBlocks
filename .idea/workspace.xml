@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae33591d-089c-47c7-ba6f-d119d31dd450" name="Changes" comment="Lec- 9 (Sorting Algo) and Lec-10 (Assignment - 3)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec19/Assigment/Vivek_Array_Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec19/Assigment/Vivek_Array_Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec25/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec25/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec25/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec25/Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +222,8 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/III S I/OneDrive/Desktop/JabRev-repo/JabRef/build.gradle"
+    "last_opened_file_path": "C:/Users/III S I/OneDrive/Desktop/JabRev-repo/JabRef/build.gradle",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Binary_Tree_Client">
