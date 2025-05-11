@@ -45,13 +45,12 @@ public class Queue {
         return v;
     }
 
-    public int GetFront() throws Exception {
+    public int getFront() throws Exception {
         if(isEmpty()) {
             throw new Exception("Queue is Empty");
         }
 
-        int v = arr[front];
-        return v;
+        return arr[front];
     }
 
     public void Display() {

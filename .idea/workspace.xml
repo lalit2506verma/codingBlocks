@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae33591d-089c-47c7-ba6f-d119d31dd450" name="Changes" comment="Lec- 9 (Sorting Algo) and Lec-10 (Assignment - 3)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec25/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec25/Queue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,10 @@
     "Application.Boolean_Matrix.executor": "Run",
     "Application.BostonNumber.executor": "Run",
     "Application.BubbleSort.executor": "Run",
+    "Application.BusyMan (1).executor": "Run",
+    "Application.BusyMan.executor": "Run",
     "Application.Calculate_The_Sum.executor": "Run",
+    "Application.Cars_Client.executor": "Run",
     "Application.Check_prime.executor": "Run",
     "Application.ChewbaccaAndNumber.executor": "Run",
     "Application.Coin_Permutation.executor": "Run",
@@ -90,7 +94,9 @@
     "Application.For_Demo.executor": "Run",
     "Application.Generate_Binary_String.executor": "Run",
     "Application.Generate_Parenthesis.executor": "Run",
+    "Application.Genercis_Demo.executor": "Run",
     "Application.HCF.executor": "Run",
+    "Application.HeapClient.executor": "Run",
     "Application.Help_Ramu.executor": "Run",
     "Application.HollowRhombus.executor": "Run",
     "Application.Hollow_Diamond.executor": "Run",
@@ -103,9 +109,11 @@
     "Application.Is_Present.executor": "Run",
     "Application.Kartik_Bhaiya_And_Strings.executor": "Run",
     "Application.Key_Paid.executor": "Run",
+    "Application.Kth_Largest_Element_in_an_Array.executor": "Run",
     "Application.LCM.executor": "Run",
     "Application.Lexicographical_Numbers.executor": "Run",
     "Application.LinearSearch.executor": "Run",
+    "Application.Linkedlist.executor": "Run",
     "Application.Ludo_dice.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Matrix_Search.executor": "Run",
@@ -118,6 +126,7 @@
     "Application.Maze_Path.executor": "Run",
     "Application.Merge_Sort.executor": "Run",
     "Application.Merge_Two_SortedAraay.executor": "Run",
+    "Application.Minimum_Sum_pair.executor": "Run",
     "Application.MirrorStarPattern.executor": "Run",
     "Application.Mummy_Motivational_Speech.executor": "Run",
     "Application.Murthal_parantha.executor": "Run",
@@ -226,13 +235,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Binary_Tree_Client">
-    <configuration name="Binary_Tree_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec31.Binary_Tree_Client" />
+  <component name="RunManager" selected="Application.Minimum_Sum_pair">
+    <configuration name="BusyMan (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec35.BusyMan" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec31.*" />
+          <option name="PATTERN" value="Lec35.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dynamic_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec28.Dynamic_Queue" />
+    <configuration name="BusyMan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec35.BusyMan" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec28.*" />
+          <option name="PATTERN" value="Lec35.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dynamic_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec28.Dynamic_Stack" />
+    <configuration name="HeapClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec36.HeapClient" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec28.*" />
+          <option name="PATTERN" value="Lec36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack_Using_Linked_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec30.Stack_Using_Linked_list" />
+    <configuration name="Kth_Largest_Element_in_an_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec36.Kth_Largest_Element_in_an_Array" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec30.*" />
+          <option name="PATTERN" value="Lec36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,12 +288,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student_client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec28.Student_client" />
+    <configuration name="Minimum_Sum_pair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec36.Minimum_Sum_pair" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec28.*" />
+          <option name="PATTERN" value="Lec36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Binary_Tree_Client" />
-        <item itemvalue="Application.Stack_Using_Linked_list" />
-        <item itemvalue="Application.Dynamic_Queue" />
-        <item itemvalue="Application.Dynamic_Stack" />
-        <item itemvalue="Application.Student_client" />
+        <item itemvalue="Application.Minimum_Sum_pair" />
+        <item itemvalue="Application.Kth_Largest_Element_in_an_Array" />
+        <item itemvalue="Application.HeapClient" />
+        <item itemvalue="Application.BusyMan (1)" />
+        <item itemvalue="Application.BusyMan" />
       </list>
     </recent_temporary>
   </component>
