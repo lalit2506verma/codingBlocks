@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae33591d-089c-47c7-ba6f-d119d31dd450" name="Changes" comment="Lec- 9 (Sorting Algo) and Lec-10 (Assignment - 3)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec25/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec25/Queue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2pIIkIxHuJyD5jEl1EElmArM0rm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -95,7 +94,12 @@
     "Application.Generate_Binary_String.executor": "Run",
     "Application.Generate_Parenthesis.executor": "Run",
     "Application.Genercis_Demo.executor": "Run",
+    "Application.Graph_Client.executor": "Run",
+    "Application.Group_Anagrams.executor": "Run",
     "Application.HCF.executor": "Run",
+    "Application.HashMapDemo.executor": "Run",
+    "Application.HashMap_Client.executor": "Run",
+    "Application.HashSet_Demo.executor": "Run",
     "Application.HeapClient.executor": "Run",
     "Application.Help_Ramu.executor": "Run",
     "Application.HollowRhombus.executor": "Run",
@@ -169,6 +173,7 @@
     "Application.Print_SubSequence.executor": "Run",
     "Application.Print_SubString.executor": "Run",
     "Application.Print_Upper_Triangular_Matrix.executor": "Run",
+    "Application.Prism_Algorithm.executor": "Run",
     "Application.ProductOfArray.executor": "Run",
     "Application.Queen_Permutation.executor": "Run",
     "Application.Queue_Client.executor": "Run",
@@ -235,13 +240,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Minimum_Sum_pair">
-    <configuration name="BusyMan (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec35.BusyMan" />
+  <component name="RunManager" selected="Application.Prism_Algorithm">
+    <configuration name="Graph_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec39.Graph_Client" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec35.*" />
+          <option name="PATTERN" value="Lec39.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +254,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BusyMan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec35.BusyMan" />
+    <configuration name="Group_Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec38.Group_Anagrams" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec35.*" />
+          <option name="PATTERN" value="Lec38.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec36.HeapClient" />
+    <configuration name="HashMap_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec38.HashMap_Client" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec36.*" />
+          <option name="PATTERN" value="Lec38.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kth_Largest_Element_in_an_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec36.Kth_Largest_Element_in_an_Array" />
+    <configuration name="HashSet_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec37.HashSet_Demo" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec36.*" />
+          <option name="PATTERN" value="Lec37.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimum_Sum_pair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec36.Minimum_Sum_pair" />
+    <configuration name="Prism_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec40.Prism_Algorithm" />
       <module name="com.coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec36.*" />
+          <option name="PATTERN" value="Lec40.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Minimum_Sum_pair" />
-        <item itemvalue="Application.Kth_Largest_Element_in_an_Array" />
-        <item itemvalue="Application.HeapClient" />
-        <item itemvalue="Application.BusyMan (1)" />
-        <item itemvalue="Application.BusyMan" />
+        <item itemvalue="Application.Prism_Algorithm" />
+        <item itemvalue="Application.Graph_Client" />
+        <item itemvalue="Application.Group_Anagrams" />
+        <item itemvalue="Application.HashMap_Client" />
+        <item itemvalue="Application.HashSet_Demo" />
       </list>
     </recent_temporary>
   </component>
